@@ -1,9 +1,11 @@
 package algoritmos
 
 fun main(args: Array<String>) {
+/**
+ * Comentários
+ * */
 
-
-    var vetor: Array<Int> = Array(8, { i -> 0 })
+    var vetor: Array<Int> = Array(11, { i -> 0 })
     vetor[0] = 6
     vetor[1] = 1
     vetor[2] = 2
@@ -12,7 +14,9 @@ fun main(args: Array<String>) {
     vetor[5] = 13
     vetor[6] = 21
     vetor[7] = 15
-
+    vetor[8] = 13
+    vetor[9] = 21
+    vetor[10] = 15
 
 
 
