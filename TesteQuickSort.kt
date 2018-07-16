@@ -2,7 +2,7 @@ package algoritmos
 
 fun main(args: Array<String>) {
 /**
- * Comentários
+ * Comentários do  meu programa
  * */
 
     var vetor: Array<Int> = Array(11, { i -> 0 })
